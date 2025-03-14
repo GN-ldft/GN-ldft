@@ -9,7 +9,7 @@ I'm GN, a newbie developer and like to learn new techniques.
 GN-ldft's GitHub stats
 
 📂 Repositories\
-Money Laundary(https://github.com/AvalonRuFae/MoneyLaundary)\
+[Money Laundary](https://github.com/AvalonRuFae/MoneyLaundary) \
 A financial project started suddenly by my friends. \
 A website that can help you manage your income and expenses (:
 
