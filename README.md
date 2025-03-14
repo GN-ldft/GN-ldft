@@ -13,7 +13,7 @@ git status
 A financial project started suddenly by my friends. \
 A website that can help you manage your income and expenses (:
 
-Saoif Card Searcher\
+**Saoif Card Searcher** \
 That's actually for my own use originally, but my friend also want to use...\
 So, feel free to use if you can see it :)
 
