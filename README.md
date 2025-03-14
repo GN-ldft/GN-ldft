@@ -1,15 +1,15 @@
 Hi there \
 I'm GN, a newbie developer and like to learn new techniques.
 
-### ABOUT ME
+## ABOUT ME
 ------
 🔭 I’m currently working on the "Money Laundary" with my friends \
 🌱 I’m currently studying in the Chinese University of Hong Kong\
-📫 How to reach me: s2017045@gmail.com\
-📈 GitHub Stats\
+📫 How to reach me: s2017045@gmail.com \
+📈 GitHub Stats \
 git status
 
-📂 Repositories\
+📂 Repositories \
 [Money Laundary](https://github.com/AvalonRuFae/MoneyLaundary) \
 A financial project started suddenly by my friends. \
 A website that can help you manage your income and expenses (:
