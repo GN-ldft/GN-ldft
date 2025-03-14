@@ -1,9 +1,9 @@
 ## Hi there\
 I'm GN, a newbie developer and like to learn new techniques. \
-\
-### ABOUT ME\
-🔭 I’m currently working on the "Money Laundary" with my friends 
-🌱 I’m currently studying in the Chinese University of Hong Kong
+
+### ABOUT ME
+🔭 I’m currently working on the "Money Laundary" with my friends \
+🌱 I’m currently studying in the Chinese University of Hong Kong\
 📫 How to reach me: s2017045@gmail.com
 📈 GitHub Stats
 GN-ldft's GitHub stats
