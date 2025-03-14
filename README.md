@@ -1,4 +1,4 @@
-## Hi there
+Hi there \
 I'm GN, a newbie developer and like to learn new techniques.
 
 ### ABOUT ME
