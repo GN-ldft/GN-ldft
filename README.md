@@ -6,7 +6,7 @@ I'm GN, a newbie developer and like to learn new techniques.
 🌱 I’m currently studying in the Chinese University of Hong Kong\
 📫 How to reach me: s2017045@gmail.com\
 📈 GitHub Stats\
-GN-ldft's GitHub stats
+git status
 
 📂 Repositories\
 [Money Laundary](https://github.com/AvalonRuFae/MoneyLaundary) \
