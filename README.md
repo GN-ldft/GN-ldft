@@ -6,7 +6,8 @@ I'm GN, a newbie developer and like to learn new techniques.
 🌱 I’m currently studying in the Chinese University of Hong Kong\
 📫 How to reach me: s2017045@gmail.com  
 ## 
-📂 Repositories \\
+📂 Repositories \
+
 [Project Management System](https://github.com/AvalonRuFae/3100) 
 
 [Hong Kong Tourism Planning Application](https://github.com/AvalonRuFae/smart-tourism-thing) 
