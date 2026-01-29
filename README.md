@@ -7,13 +7,13 @@ I'm GN, a newbie developer and like to learn new techniques.
 📫 How to reach me: s2017045@gmail.com  
 ## 
 📂 Repositories \
-[Project Management System](https://github.com/AvalonRuFae/3100) \
+[Project Management System](https://github.com/AvalonRuFae/3100) 
 
-[Hong Kong Tourism Planning Application](https://github.com/AvalonRuFae/smart-tourism-thing) \
+[Hong Kong Tourism Planning Application](https://github.com/AvalonRuFae/smart-tourism-thing) 
 
-[Money Laundary](https://github.com/AvalonRuFae/MoneyLaundary) \
+[Money Laundary](https://github.com/AvalonRuFae/MoneyLaundary) 
 
-<ins>Saoif Card Searcher</ins> \
+<ins>Saoif Card Searcher</ins> 
 ## 
 Also feel free to explore my repositories and get in touch if you have any questions or collaboration ideas!
 
